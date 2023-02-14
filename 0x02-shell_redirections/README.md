@@ -1,2 +1,2 @@
-Shell Redirection I/O \n
-0. Write a script that prints “Hello, World” \n
+Shell Redirection I/O
+0. Write a script that prints “Hello, World”
